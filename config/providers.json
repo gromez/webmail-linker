@@ -1284,6 +1284,30 @@
 		"url":     "https://www.laposte.net/accueil",
 		"icon":    "https://www.laposte.net/favicon.ico"
 	},
+	{
+		"name":    "SFR Webmail",
+		"domains": "sfr[.]fr neuf[.]fr",
+		"url":     "http://messagerie.sfr.fr/",
+		"icon":    "http://s1.s-sfr.fr/elements/favicon.ico"
+	},
+	{
+		"name":    "Numericable Webmail",
+		"domains": "numericable[.]fr numericable[.]com",
+		"url":     "https://webmail.numericable.fr/",
+		"icon":    "http://offres.numericable.fr/favicon.ico"
+	},
+	{
+		"name":    "Bouygues Telecom Webmail",
+		"domains": "bbox[.]fr",
+		"url":     "http://www.messagerie.bbox.bouyguestelecom.fr/",
+		"icon":    "https://www.mon-compte.bouyguestelecom.fr/static/img/favicon.ico"
+	},
+	{
+		"name":    "Alice Webmail",
+		"domains": "aliceadsl[.]fr",
+		"url":     "http://webmail.aliceadsl.fr/",
+		"icon":    "http://www.aliceadsl.fr/favicon.ico"
+	},
 
 	"===== Belgium =====",
 	{
